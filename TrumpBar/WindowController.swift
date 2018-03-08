@@ -48,7 +48,7 @@ class WindowController: NSWindowController, NSTouchBarDelegate {
         touchBar.delegate = self
         touchBar.customizationIdentifier    = .touchBar
 //        touchBar.defaultItemIdentifiers     = [.china, .💨, .fixedSpaceSmall, .fart, .dry, .creamy]
-        touchBar.defaultItemIdentifiers     = [.TrumpChina00]
+        touchBar.defaultItemIdentifiers     = [.TrumpChina00, .TrumpChina01, .TrumpChina02, .TrumpChina03, .TrumpChina04, .TrumpChina05, .TrumpChina06]
         
         
         return touchBar

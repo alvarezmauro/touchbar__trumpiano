@@ -13,6 +13,12 @@
 		1968E2931DC2E22100422BFE /* TrumpBarTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1968E2921DC2E22100422BFE /* TrumpBarTests.swift */; };
 		1968E29E1DC2E71000422BFE /* WindowController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1968E29D1DC2E71000422BFE /* WindowController.swift */; };
 		E01DAEC2204F5A840050F3FD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E01DAEC1204F5A840050F3FD /* Assets.xcassets */; };
+		E02CB15E2050EBC800929425 /* TrumpChina04.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E02CB1562050EBC700929425 /* TrumpChina04.mp3 */; };
+		E02CB15F2050EBC800929425 /* TrumpChina02.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E02CB1572050EBC700929425 /* TrumpChina02.mp3 */; };
+		E02CB1602050EBC800929425 /* TrumpChina05.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E02CB1582050EBC700929425 /* TrumpChina05.mp3 */; };
+		E02CB1632050EBC800929425 /* TrumpChina01.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E02CB15B2050EBC800929425 /* TrumpChina01.mp3 */; };
+		E02CB1642050EBC800929425 /* TrumpChina03.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E02CB15C2050EBC800929425 /* TrumpChina03.mp3 */; };
+		E02CB1652050EBC800929425 /* TrumpChina06.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E02CB15D2050EBC800929425 /* TrumpChina06.mp3 */; };
 		E06641A1204F5B7800868155 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E01DAEC1204F5A840050F3FD /* Assets.xcassets */; };
 		E097872E204E9994004407EE /* TrumpChina00.png in Resources */ = {isa = PBXBuildFile; fileRef = E0978724204E9993004407EE /* TrumpChina00.png */; };
 		E097872F204E9994004407EE /* TrumpChina08.png in Resources */ = {isa = PBXBuildFile; fileRef = E0978725204E9993004407EE /* TrumpChina08.png */; };
@@ -24,8 +30,6 @@
 		E0978735204E9994004407EE /* TrumpChina02.png in Resources */ = {isa = PBXBuildFile; fileRef = E097872B204E9994004407EE /* TrumpChina02.png */; };
 		E0978736204E9994004407EE /* TrumpChina01.png in Resources */ = {isa = PBXBuildFile; fileRef = E097872C204E9994004407EE /* TrumpChina01.png */; };
 		E0978737204E9994004407EE /* TrumpChina03.png in Resources */ = {isa = PBXBuildFile; fileRef = E097872D204E9994004407EE /* TrumpChina03.png */; };
-		E0E58348204685DE0077716D /* DonaldTrumpNicePerson.png in Resources */ = {isa = PBXBuildFile; fileRef = E0E58346204685DE0077716D /* DonaldTrumpNicePerson.png */; };
-		E0E58349204685DE0077716D /* DonaldTrumpNicePerson.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E0E58347204685DE0077716D /* DonaldTrumpNicePerson.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +53,12 @@
 		1968E2941DC2E22100422BFE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1968E29D1DC2E71000422BFE /* WindowController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WindowController.swift; sourceTree = "<group>"; };
 		E01DAEC1204F5A840050F3FD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		E02CB1562050EBC700929425 /* TrumpChina04.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = TrumpChina04.mp3; path = TrumpQuote/TrumpChina04.mp3; sourceTree = "<group>"; };
+		E02CB1572050EBC700929425 /* TrumpChina02.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = TrumpChina02.mp3; path = TrumpQuote/TrumpChina02.mp3; sourceTree = "<group>"; };
+		E02CB1582050EBC700929425 /* TrumpChina05.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = TrumpChina05.mp3; path = TrumpQuote/TrumpChina05.mp3; sourceTree = "<group>"; };
+		E02CB15B2050EBC800929425 /* TrumpChina01.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = TrumpChina01.mp3; path = TrumpQuote/TrumpChina01.mp3; sourceTree = "<group>"; };
+		E02CB15C2050EBC800929425 /* TrumpChina03.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = TrumpChina03.mp3; path = TrumpQuote/TrumpChina03.mp3; sourceTree = "<group>"; };
+		E02CB15D2050EBC800929425 /* TrumpChina06.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = TrumpChina06.mp3; path = TrumpQuote/TrumpChina06.mp3; sourceTree = "<group>"; };
 		E0978724204E9993004407EE /* TrumpChina00.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = TrumpChina00.png; path = TrumpQuote/TrumpChina00.png; sourceTree = "<group>"; };
 		E0978725204E9993004407EE /* TrumpChina08.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = TrumpChina08.png; path = TrumpQuote/TrumpChina08.png; sourceTree = "<group>"; };
 		E0978726204E9993004407EE /* TrumpChina04.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = TrumpChina04.png; path = TrumpQuote/TrumpChina04.png; sourceTree = "<group>"; };
@@ -59,8 +69,6 @@
 		E097872B204E9994004407EE /* TrumpChina02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = TrumpChina02.png; path = TrumpQuote/TrumpChina02.png; sourceTree = "<group>"; };
 		E097872C204E9994004407EE /* TrumpChina01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = TrumpChina01.png; path = TrumpQuote/TrumpChina01.png; sourceTree = "<group>"; };
 		E097872D204E9994004407EE /* TrumpChina03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = TrumpChina03.png; path = TrumpQuote/TrumpChina03.png; sourceTree = "<group>"; };
-		E0E58346204685DE0077716D /* DonaldTrumpNicePerson.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = DonaldTrumpNicePerson.png; path = TrumpQuote/DonaldTrumpNicePerson.png; sourceTree = "<group>"; };
-		E0E58347204685DE0077716D /* DonaldTrumpNicePerson.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = DonaldTrumpNicePerson.mp3; path = TrumpQuote/DonaldTrumpNicePerson.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -125,6 +133,12 @@
 		1968E29F1DC2E8D100422BFE /* trumpQuotes */ = {
 			isa = PBXGroup;
 			children = (
+				E02CB15B2050EBC800929425 /* TrumpChina01.mp3 */,
+				E02CB1572050EBC700929425 /* TrumpChina02.mp3 */,
+				E02CB15C2050EBC800929425 /* TrumpChina03.mp3 */,
+				E02CB1562050EBC700929425 /* TrumpChina04.mp3 */,
+				E02CB1582050EBC700929425 /* TrumpChina05.mp3 */,
+				E02CB15D2050EBC800929425 /* TrumpChina06.mp3 */,
 				E097872A204E9994004407EE /* TrumpChina00.mp3 */,
 				E0978724204E9993004407EE /* TrumpChina00.png */,
 				E097872C204E9994004407EE /* TrumpChina01.png */,
@@ -135,8 +149,6 @@
 				E0978728204E9994004407EE /* TrumpChina06.png */,
 				E0978727204E9993004407EE /* TrumpChina07.png */,
 				E0978725204E9993004407EE /* TrumpChina08.png */,
-				E0E58347204685DE0077716D /* DonaldTrumpNicePerson.mp3 */,
-				E0E58346204685DE0077716D /* DonaldTrumpNicePerson.png */,
 			);
 			name = trumpQuotes;
 			sourceTree = "<group>";
@@ -226,19 +238,23 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E0E58348204685DE0077716D /* DonaldTrumpNicePerson.png in Resources */,
 				E097872F204E9994004407EE /* TrumpChina08.png in Resources */,
+				E02CB1602050EBC800929425 /* TrumpChina05.mp3 in Resources */,
+				E02CB1652050EBC800929425 /* TrumpChina06.mp3 in Resources */,
 				E0978733204E9994004407EE /* TrumpChina05.png in Resources */,
 				E0978730204E9994004407EE /* TrumpChina04.png in Resources */,
 				E01DAEC2204F5A840050F3FD /* Assets.xcassets in Resources */,
-				E0E58349204685DE0077716D /* DonaldTrumpNicePerson.mp3 in Resources */,
+				E02CB1642050EBC800929425 /* TrumpChina03.mp3 in Resources */,
 				E0978732204E9994004407EE /* TrumpChina06.png in Resources */,
 				E0978731204E9994004407EE /* TrumpChina07.png in Resources */,
+				E02CB15E2050EBC800929425 /* TrumpChina04.mp3 in Resources */,
 				E0978735204E9994004407EE /* TrumpChina02.png in Resources */,
 				E0978737204E9994004407EE /* TrumpChina03.png in Resources */,
+				E02CB15F2050EBC800929425 /* TrumpChina02.mp3 in Resources */,
 				E0978734204E9994004407EE /* TrumpChina00.mp3 in Resources */,
 				E097872E204E9994004407EE /* TrumpChina00.png in Resources */,
 				E0978736204E9994004407EE /* TrumpChina01.png in Resources */,
+				E02CB1632050EBC800929425 /* TrumpChina01.mp3 in Resources */,
 				1968E2881DC2E22100422BFE /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
